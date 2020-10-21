@@ -82,3 +82,12 @@ h2{
     width: 12%;
     margin: 3%;
 }
+
+#pricing{
+    padding: 7% 10%;
+    text-align: center;
+}
+
+.pricing-colm{
+    padding: 3% 12%;
+}
